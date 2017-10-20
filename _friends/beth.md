@@ -1,4 +1,4 @@
 ---
-name: Beth Haubert
+title: Beth
 location: Omaha
 ---

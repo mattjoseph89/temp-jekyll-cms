@@ -1,5 +1,5 @@
 ---
-title: Dan
+title: Mindy
 location: Okinawa
 ---
 
